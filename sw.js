@@ -64,5 +64,5 @@ self.addEventListener("fetch", e => {
     
     });
 
-    e.respondWith( respuesta )
+    e.respondWith( respuesta );
 });
