@@ -191,7 +191,7 @@ textarea {
     display: block;
     position: relative;
     padding-left: 20px;
-    vertical-align: top;
+    /*vertical-align: top;*/
     display: inline-block; }
   
   .arrow {
